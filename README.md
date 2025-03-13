@@ -2,7 +2,7 @@
 A simple RESTful API built with Spring Boot for managing a To-Do list. This application allows users to:
 <br>
 ✅ Add tasks<br>
-✅ View tasks (Primary focus)<br>
+✅ View tasks<br>
 ✅ Update tasks<br>
 ✅ Mark tasks as completed<br>
 ✅ Delete tasks<br>
